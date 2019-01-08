@@ -1,6 +1,6 @@
 ##project name
 rsz-quizboard.png
-##0uther name
+##Author name
 MBOYIRE Delphine
 ##description of project
 this project is about Javascript Quiz that helps people to know it much better .
